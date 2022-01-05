@@ -1,0 +1,16 @@
+$color-primary: orange;
+$color-secondary: gray;
+
+$font-lg: 40px;
+$font-md: 30px;
+$font-sm: 20px;
+
+.nav {
+  background-color: $color-primary;
+}
+
+.banner h1 {
+  color: $color-secondary;
+  font-size: $font-lg;
+  text-align: center;
+}
