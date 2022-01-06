@@ -1,5 +1,6 @@
 @use 'vars/helper' as c;
 // @use 'vars/colors' as *;
+// if you name the helper file index.scss, no need to add index at the end of path - just vars will work; 
 @use 'components/button' as button;
 
 h1 {
