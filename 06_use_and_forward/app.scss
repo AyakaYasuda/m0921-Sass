@@ -1,0 +1,8 @@
+@use 'vars/helper' as c;
+// @use 'vars/colors' as *;
+@use 'components/button' as button;
+
+h1 {
+  color: c.$h1-color;
+  //   color: $h1-color;
+}

@@ -1,0 +1,6 @@
+// @use '../vars/colors' as c;
+@use '../vars/helper' as c;
+
+.button {
+  color: c.$comp-color;
+}

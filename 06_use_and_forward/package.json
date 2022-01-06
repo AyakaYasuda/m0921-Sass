@@ -1,0 +1,14 @@
+{
+  "name": "04_extend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "watch": "sass app.scss css/app.css -w"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "sass": "^1.46.0"
+  }
+}
